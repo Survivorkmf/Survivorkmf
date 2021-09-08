@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Survivorkmf
+- 👀 I’m interested in Computer Programming
+- 🌱 I’m currently learning c++ 
