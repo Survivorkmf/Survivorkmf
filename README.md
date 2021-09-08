@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Survivorkmf
+- 👋 Hi, I’m Survivor
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning c++ 
